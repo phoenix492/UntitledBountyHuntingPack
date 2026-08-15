@@ -12,3 +12,7 @@
 /usercache.json
 /.mixin.out/
 /config/zfastnoise.mixin.properties
+/screenshots/
+/command_history.txt
+/config/featurify/featurify_backup_*.json
+/config/structurify/structurify_backup_*.json
